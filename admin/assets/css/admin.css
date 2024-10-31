@@ -1,0 +1,20 @@
+/* This stylesheet is used to style the admin option form of the plugin. */
+
+/**
+*-----------------------------------------
+* Right Sidebar
+*-----------------------------------------
+*/
+.s3-secure-url-admin-page .s3-secure-url-right-sidebar a{color:#2980B9;transition: all 0.3s ease;}
+.s3-secure-url-admin-page .s3-secure-url-right-sidebar a:hover{color:#3498DB;}
+.s3-secure-url-admin-page .s3-secure-url-right-sidebar h3{padding-left:12px!important;}
+.s3-secure-url-admin-page .s3-secure-url-right-sidebar ul{margin-top:0px;}
+.s3-secure-url-admin-page .s3-secure-url-right-sidebar .inside .s3-secure-url-sidebar-footer{font-size:0.9em;overflow: hidden;border-top:1px solid #2C3E50;padding-top:5px;text-align:center;}
+.s3-secure-url-admin-page .s3-secure-url-right-sidebar .inside .s3-secure-url-sidebar-footer .s3-secure-url-copyright{margin-bottom: 10px;}
+.s3-secure-url-admin-page .s3-secure-url-right-sidebar .inside .s3-secure-url-sidebar-footer .s3-secure-url-social{}
+.s3-secure-url-admin-page .s3-secure-url-right-sidebar .inside .s3-secure-url-sidebar-footer .s3-secure-url-social a{display: inline-block;margin-right:5px;}
+.s3-secure-url-admin-page .s3-secure-url-right-sidebar .inside .s3-secure-url-sidebar-footer .s3-secure-url-social a:last-child{margin-right:0px;}
+.s3-secure-url-admin-page .s3-secure-url-right-sidebar .inside .no-underline{text-decoration: none;}
+.s3-secure-url-admin-page .s3-secure-url-right-sidebar .inside .text-highlighted{color:#2980B9;font-weight: bold;}
+.s3-secure-url-admin-page .s3-secure-url-right-sidebar .inside .text-highlighted:hover{color:#3498DB;}
+.s3-secure-url-admin-page .s3-secure-url-right-sidebar .inside .text-highlighted-second{color:#E74C3C}
